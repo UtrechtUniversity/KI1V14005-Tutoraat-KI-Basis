@@ -13,3 +13,7 @@ This guideline is work-in-progress. I'm sharing it here to facilitate collaborat
 If you want to contribute, please try to use the usual github channels: open an issue, propose changes, make a pull request, ...
 
 To get started, have a look here: https://help.github.com/en/github/collaborating-with-issues-and-pull-requests
+
+** Dependencies
+
+The guideline is typeset using my uureport class, which you can find under https://github.com/jkorb/uureport.
