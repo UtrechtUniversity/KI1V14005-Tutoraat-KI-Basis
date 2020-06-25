@@ -34,7 +34,7 @@
 
 #the pdf
 
-*.pdf
+# *.pdf
 
 # AucTeX auto folders
 
