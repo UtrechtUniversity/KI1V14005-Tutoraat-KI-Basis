@@ -1,6 +1,10 @@
 #macOS file
 .DS_Store
 
+# Build folders
+tmp/
+pdf/
+
 #LaTex aux-files
 
 *.pdfsync
@@ -34,7 +38,7 @@
 
 #the pdf
 
-# *.pdf
+*.pdf
 
 # AucTeX auto folders
 
