@@ -1,7 +1,6 @@
 # BA KI Program
 
 -   General Info:
-    <https://students.uu.nl/gw/ki/studieprogramma/major-gestart-vanaf-2017-2018>
+    <https://www.uu.nl/bachelors/kunstmatige-intelligentie/studieprogramma>
 
--   Additional information (explicit curriculum, who-is-who, etc.) on BB
-    in the tutor folder under "Informatie."
+-   You can find additional information (explicit curriculum, who-is-who, etc.) in our Teams environment.
