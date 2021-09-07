@@ -1,36 +1,16 @@
-# Readme
+# KI1V14005 - Tutoraat KI, Basis
 
-## About
+This repository hosts the source files for the guideline for tutors and mentors in our first-year tutoring program for artificial intelligence `KI1V14005 - Tutoraat KI, Basis`.
 
-This document contains a guideline for tutors and mentors of first-year
-students in the bachelor program *Kunstmatige Intelligentie* at Utrecht
-University. See:
-<https://students.uu.nl/gw/ki/praktische-zaken/begeleiding-en-advies>
+A compiled PDF can be found under `Releases`.
 
-## WIP
+Contributions (PRs, issues, etc.) very welcome, especially from current mentors, tutors, or students who happen to find this.
 
-This guideline is work-in-progress. I\'m sharing it here to facilitate
-collaboration, feedback, and in the spirit of open science.
+# Dependencies
 
-## Instructions
+To compile, you need `GNU make`, `pandoc`, some standard latex install (`latex-core` should do), and my `uureport`-class (<https://github.com/jkorb/uureport>). 
+`uureport` is added as a git submodule for compilation/convenience, so just clone with `git clone --recursive` to get it copied into `src/tex/uureport`.
 
-If you want to contribute, please try to use the usual github channels:
-open an issue, propose changes, make a pull request, ...
+# License
 
-To get started, have a look here:
-<https://help.github.com/en/github/collaborating-with-issues-and-pull-requests>
-
-## Principles
-
-I try to adhere to the following principles, I\'d like to ask all
-collaborators to do the same:
-
--   Less is more Provide only to the point information that can actually
-    be read.
-
-These principles will be updated.
-
-## Dependencies
-
-The guideline is typeset using my uureport class, which you can find
-under <https://github.com/jkorb/uureport>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
