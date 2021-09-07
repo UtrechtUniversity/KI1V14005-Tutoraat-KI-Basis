@@ -3,7 +3,6 @@ SRC_DIR = src
 BUILD_DIR = pdf
 TMP_DIR = tmp
 
-
 IMG_DIR = $(SRC_DIR)/img
 MD_DIR = $(SRC_DIR)/md
 TEX_DIR = $(SRC_DIR)/tex
