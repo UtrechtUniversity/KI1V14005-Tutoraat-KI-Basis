@@ -7,38 +7,47 @@ Johannes Korbmacher\
   ----------------- ----------------------
   Email:            <j.korbmacher@uu.nl>
   Office:           Room 1.05, JKH 13
-  Phone (cell):     +49 151 40033447
-  Phone (office):   030 253 7986
+  Phone (cell):     +49 151 40033447 (for emergencies)
   ----------------- ----------------------
+
+## Teaching Director
+
+Janneke van Dis\
+
+  --------- ---------------------
+  Email:    <j.h.vandis@uu.nl>
+  Office:   Room 1.09, JKH 13
+  --------- ---------------------
 
 ## Program Coordinator
 
-Janneke van Lith\
+Niels van Miltenburg
 
   --------- ---------------------
-  Email:    <j.h.vanlith@uu.nl>
-  Office:   Room 1.09, JKH 13
-  Phone:    030 253 1273
+  Email:    <n.vanmiltenburg@uu.nl>
+  Office:   Room 0.07, JKH 13
   --------- ---------------------
 
-## Study Advisor
 
-Ruben van Doorn\
+
+## Study Advisors
+
+Ruben van Doorn and Marloes Lammerts\
 
   --------- --------------------
-  Email:    <R.vanDoorn@uu.nl>
+  Email:    <studieadviesCKI.gw@uu.nl>
   Office:   Room 0.15, JKH 13
-  Phone:    030 253 2172
+  Phone:    030 253 1959
   --------- --------------------
 
 What does the study advisor do? (See also
-<https://www.uu.nl/staff/RSvanDoorn> and
-<https://students.uu.nl/praktische-zaken/begeleiding-en-advies>)
+<https://students.uu.nl/gw/ki/contact/studieadviseur> and
+<https://students.uu.nl/gw/ki/praktische-zaken/begeleiding-welzijn-en-advies>)
 
 -   While the tutor gives academic guidance, the study advisor helps
     with (serious) personal problems.
 
--   There is a daily inloopspreekuur from 11:00 -- 12:00. This is
+-   There is a daily inloopspreekuur from 10:00 -- 12:00. This is
     particularly useful for relatively simple issues.
 
 -   It's possible to make an appointment for a longer (30 minute)
